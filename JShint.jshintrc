@@ -1,0 +1,15 @@
+{
+    "curly": true,
+    "eqnull": true,
+    "eqeqeq": true,
+    //不能使用未定义变量
+    "undef": true,
+    "regexp":true,
+    //语句之后必须有分号
+    "asi":true,
+    //预定义默认不检查的全局变量
+    "predef":[],
+    "globals": {
+        // "jQuery": true
+    }
+}
